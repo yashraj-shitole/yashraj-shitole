@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yashraj, a full-stack freelance developer 👨‍💻 </div>  
+## <div align="center">I'm Yashraj, a full-stack freelance developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently pursuing a Diploma in Advanced Computing from CDAC.  
