@@ -6,7 +6,7 @@
 ## <div align="center">I'm Yashraj, a full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently pursuing a Post Graduation Diploma in Advanced Computing from CDAC.  
+- 🔭 I’m currently pursuing PG Diploma in Advanced Computing from CDAC.  
   
 
 - 🌱 Skilled in weaving web magic with a knack for crafting stunning and functional websites.  
