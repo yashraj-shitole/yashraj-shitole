@@ -12,7 +12,8 @@
 - 🌱 Skilled in weaving web magic with a knack for crafting stunning and functional websites.  
   
 
-- 🔗Let's connect!  <a href="https://www.linkedin.com/in/yashraj-shitole-576442215/" target="_blank">
+- 🔗Let's connect!
+<a href="https://www.linkedin.com/in/yashraj-shitole-576442215/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
