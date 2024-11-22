@@ -76,9 +76,9 @@
 <a href="https://www.instagram.com/_yashraj_shitole_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+</div>
 [![wakatime](https://wakatime.com/badge/user/e8dfcf1c-30c1-4793-a92b-e3be2d181217.svg)](https://wakatime.com/@e8dfcf1c-30c1-4793-a92b-e3be2d181217)
 
-</div>  
   
 
 <br/>  
