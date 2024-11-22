@@ -15,7 +15,7 @@
   
 
 <br/>  
-
+[![wakatime](https://wakatime.com/badge/user/e8dfcf1c-30c1-4793-a92b-e3be2d181217.svg)](https://wakatime.com/@e8dfcf1c-30c1-4793-a92b-e3be2d181217)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
