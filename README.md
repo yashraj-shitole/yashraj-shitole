@@ -15,8 +15,7 @@
   
 
 <br/>  
-[![wakatime](https://wakatime.com/badge/user/e8dfcf1c-30c1-4793-a92b-e3be2d181217.svg)](https://wakatime.com/@e8dfcf1c-30c1-4793-a92b-e3be2d181217)
-
+<a href="https://wakatime.com/@e8dfcf1c-30c1-4793-a92b-e3be2d181217"><img src="https://wakatime.com/badge/user/e8dfcf1c-30c1-4793-a92b-e3be2d181217.svg" alt="Total time coded since Sep 16 2024" /></a>
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
